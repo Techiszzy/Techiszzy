@@ -1,117 +1,125 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#72a7ff;">Israel (Techiszzy)</span></h1>
-<h3 align="center">Full-Stack Developer • Python Engineer • AI Builder • Cybersecurity Learner</h3>
+<!-- ================= PROFILE HEADER ================= -->
+# 👋 Hi, I'm Israel (Techiszzy)
+### Full-Stack Developer • Python Engineer • Cybersecurity Learner
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=72A7FF&center=true&vCenter=true&width=600&lines=Tech+Enthusiast;Full-Stack+Developer;FastAPI+%2B+React+Developer;AI+%2F+Automation+Builder;Cybersecurity+%26+Networking+Learner;Always+Building+Cool+Projects" />
-</p>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?size=28&color=72A7FF&center=true&vCenter=true&width=650&lines=Building+Cool+Projects;Full-Stack+Developer;Cybersecurity+%26+Networking;SchoolStack+In+Progress)
 
 ---
 
-<!-- ABOUT -->
-## 🚀 About Me
+## 🌟 About Me
 
-- 🔭 Working on **SchoolStack**, **Exam Platforms**, **FinTech apps**, and **AI Assistants**
-- 🌱 Learning **Cybersecurity, Networking, Physics, Further Maths**
-- 🧠 Building **AI systems, automation tools, fintech apps, and developer utilities**
-- 🎯 Goal: Become one of the **youngest top developers in Nigeria**
-- ⚡ Fun fact: I love building **big projects** that push my limits
+- 🔭 Currently building: **SchoolStack (In Progress)**  
+- 🌱 Learning: **Cybersecurity, Networking, Physics, Further Maths**  
+- 🧠 Passion: Building **educational platforms, automation tools, and developer utilities**  
+- ⚡ Fun fact: I love creating **big projects that push my limits**  
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" />
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,nodejs,tailwind" />
-</p>
+![React](https://skillicons.dev/icons?i=react)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode" />
-</p>
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-<!-- PROJECTS -->
-## 🔥 Featured Projects
+## 🔥 Featured Project
 
-### 🟦 SchoolStack – School Management + Exam Platform  
-``A powerful platform with classrooms, notes, exam monitoring, and admin tools.``  
+### 🟦 SchoolStack (In Progress)
+A modern school management + exam platform under development.
+
 **Stack:** React + Tailwind + FastAPI + PostgreSQL  
-- Classroom system like Google Classroom  
+
+**Planned Features:**
+- Classroom system (better than Google Classroom)  
+- Notes upload & classroom management  
+- Exam anti-cheat (detect tab switching, fullscreen exit, desktop change)  
 - Developer HQ panel  
-- Anti-cheat detection: tab switching, fullscreen exit, desktop changes  
-- Admin override controls  
+- Moderator & Teacher access levels  
+
+![SchoolStack Demo](https://media.giphy.com/media/3o7TKsQ7LP3KrrP91O/giphy.gif)
 
 ---
 
-### 🟩 FastPay – OPay-Like FinTech System  
-``FastAPI backend • OTP • wallet • transactions • user authentication``  
-- Sendchamp OTP integration  
-- React frontend  
-- Secure login, dashboard, transaction history  
-
----
-
-### 🟣 SHAΔDE – Desktop AI Assistant  
-- Real-time GPT responses  
-- Floating UI  
-- Voice commands  
-- Offline control system coming soon  
-
----
-
-<!-- STATS -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Techiszzy&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techiszzy&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Techiszzy&theme=tokyonight" />
-</p>
+![Techiszzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techiszzy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techiszzy&layout=compact&theme=tokyonight)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Techiszzy&theme=tokyonight)
 
 ---
 
-<!-- BADGES -->
 ## 🏆 Achievements & Badges
 
-<p>
-  <img src="https://img.shields.io/github/followers/Techiszzy?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Techiszzy&color=blue" />
-  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Building-AI-orange?style=flat" />
-</p>
+<!-- GitHub Activity -->
+![Followers](https://img.shields.io/github/followers/Techiszzy?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/Techiszzy?style=social)
+![Forks](https://img.shields.io/github/forks/Techiszzy)
+![Issues](https://img.shields.io/github/issues/Techiszzy)
+![License](https://img.shields.io/github/license/Techiszzy)
+![Profile Views](https://komarev.com/ghpvc/?username=Techiszzy&color=blue)
+
+<!-- Programming Languages & Tools -->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- Learning & Current Projects -->
+![Learning Cybersecurity](https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge)
+
+![Building SchoolStack](https://img.shields.io/badge/Building-SchoolStack-orange?style=for-the-badge)
+
+![Focus: FullStack](https://img.shields.io/badge/Focus-FullStack-purple?style=for-the-badge)
+
+<!-- Fun / Motivational -->
+![100DaysOfCode](https://img.shields.io/badge/100DaysOfCode-🔥-green?style=for-the-badge)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-🎃-purple?style=for-the-badge)
+![OpenSource](https://img.shields.io/badge/OpenSource-🌟-blue?style=for-the-badge)
+![Code Quality](https://img.shields.io/badge/Code-Quality-00FF00?style=for-the-badge)
+
+
+
 
 ---
 
-<!-- SNAKE -->
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/Techiszzy/Techiszzy/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
+
+![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-<!-- CONNECT -->
-## 🌐 Connect With Me
+## 🌐 Contact Me
+ 
 
-<p>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-</p>
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:techiszzy@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](#)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](#)
 
 ---
 
-⭐️ **Thanks for visiting! Feel free to star my repositories and follow my journey.**
+⭐️ **Thanks for visiting! Follow me for more cool projects and tech updates.**
